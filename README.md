@@ -1,3 +1,3 @@
-# My First GitHub Repository
+# Hi Everbody
 
 This is my first project using Git and GitHub.
