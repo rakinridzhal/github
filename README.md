@@ -1,4 +1,4 @@
-# My First GitHub Repository
+# Hi Everybody
 
 This is my first project using Git and GitHub.
 ## About Me
